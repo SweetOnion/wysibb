@@ -4,7 +4,7 @@
     "description": "A customizable bbcode wysiwyg text editor written in javascript",
     "main": "jquery.wysibb.js",
     "scripts": {
-        "test": "echo "Error: no test specified" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
         "bbcode",
